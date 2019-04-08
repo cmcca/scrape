@@ -1,0 +1,21 @@
+body {
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+h1 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 10vw;
+    padding: 2vw;
+}
+
+h2 {
+
+    font-size: 35vw;
+    padding: 1vw;
+}
